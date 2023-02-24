@@ -1297,3 +1297,7 @@
 2023-02-21 15:33:48,491 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Suresh
 2023-02-21 15:33:52,704 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Dipali
 2023-02-21 15:33:55,842 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-24 09:43:21,022 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-24 09:43:21,154 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-24 09:45:53,068 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-24 09:45:53,168 - OrangeHRM_Full__Test -INFO - successfully click on Login
