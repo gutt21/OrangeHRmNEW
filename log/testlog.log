@@ -1,0 +1,1299 @@
+2023-01-17 15:49:19,527 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 15:51:20,715 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 15:57:20,140 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:01:04,455 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:02:23,787 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:05:31,010 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:06:07,839 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:07:34,918 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:56:49,502 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 16:56:50,188 - OrangeHRM_Full__Test -INFO - expected color ==>#FFFFFF
+2023-01-17 16:56:50,189 - OrangeHRM_Full__Test -INFO - actual color ==>#ffffff
+2023-01-17 17:02:12,310 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:02:12,772 - OrangeHRM_Full__Test -INFO - expected color ==>#FFFFFF
+2023-01-17 17:02:12,773 - OrangeHRM_Full__Test -INFO - actual color ==>#ffffff
+2023-01-17 17:02:12,774 - OrangeHRM_Full__Test -INFO - color is matched successfully passed
+2023-01-17 17:07:26,970 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:07:47,372 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:07:48,866 - OrangeHRM_Full__Test -INFO - expected color ==>#FFFFFF
+2023-01-17 17:07:48,866 - OrangeHRM_Full__Test -INFO - actual color ==>#ffffff
+2023-01-17 17:07:48,868 - OrangeHRM_Full__Test -INFO - color is matched successfully passed
+2023-01-17 17:14:48,064 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:15:26,175 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:15:26,201 - OrangeHRM_Full__Test -INFO - expected color ==>#FF7B1D
+2023-01-17 17:15:26,202 - OrangeHRM_Full__Test -INFO - actual color ==>#1e57e8
+2023-01-17 17:19:12,466 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 17:19:12,493 - OrangeHRM_Full__Test -INFO - expected color ==>#1e57e8
+2023-01-17 17:19:12,494 - OrangeHRM_Full__Test -INFO - actual color ==>#1e57e8
+2023-01-17 17:19:12,496 - OrangeHRM_Full__Test -INFO - color is matched successfully passed
+2023-01-17 17:19:12,496 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-17 18:11:20,544 - OrangeHRM_Full__Test -INFO - checking color matched the expected value
+2023-01-17 18:11:20,574 - OrangeHRM_Full__Test -INFO - expected color ==>#1e57e8
+2023-01-17 18:11:20,575 - OrangeHRM_Full__Test -INFO - actual color ==>#ff7b1d
+2023-01-17 18:11:58,094 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-17 18:17:06,440 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-17 18:18:58,838 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 14:43:17,276 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 14:43:21,664 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 14:43:24,775 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 14:43:27,906 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 14:43:31,023 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 14:43:32,123 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 14:43:33,251 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 14:43:34,350 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:20:06,999 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 15:20:13,618 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 15:20:16,772 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 15:20:19,957 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 15:20:23,163 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 15:20:24,342 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 15:20:25,553 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 15:20:26,749 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:21:35,756 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 15:21:40,968 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 15:21:44,115 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 15:21:47,276 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 15:21:50,535 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 15:21:51,716 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 15:21:52,941 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 15:21:54,098 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:23:51,363 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 15:23:56,388 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 15:23:59,583 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 15:24:02,771 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 15:24:05,924 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 15:24:07,063 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 15:24:08,232 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 15:24:09,370 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:27:03,183 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 15:27:04,562 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 15:27:06,695 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 15:27:08,317 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 15:27:11,499 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 15:27:14,669 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 15:27:17,828 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 15:27:18,973 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 15:27:20,210 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 15:27:21,357 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:27:21,462 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 15:27:23,626 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 15:27:23,738 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 15:27:39,087 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 15:33:39,655 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 15:33:41,032 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 15:33:43,194 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 15:33:44,798 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 15:33:47,976 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 15:33:51,144 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 15:33:54,353 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 15:33:55,536 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 15:33:56,735 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 15:33:57,889 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 15:33:58,034 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 15:34:00,116 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 15:34:00,206 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 15:34:00,293 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 15:34:15,637 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:05:29,595 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:05:31,128 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:06:09,768 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:06:09,850 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:06:12,902 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:06:13,971 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-18 16:06:15,804 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> PzwxOELHHA
+2023-01-18 16:06:16,964 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> CFiYJMKlWh
+2023-01-18 16:06:18,102 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> qfTfmEvgss
+2023-01-18 16:06:19,227 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> fzIjvrRxPN
+2023-01-18 16:06:20,334 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> wihUYSALSM
+2023-01-18 16:09:18,928 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:09:20,139 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:09:21,987 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:09:23,317 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-18 16:09:24,846 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> mHYnIaGcrP
+2023-01-18 16:09:25,966 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> VLVPYgtOkk
+2023-01-18 16:09:27,089 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> gLecohTxoD
+2023-01-18 16:09:28,239 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ynUzUdocrV
+2023-01-18 16:09:29,353 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> TcGipKNsiU
+2023-01-18 16:09:29,455 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:09:29,524 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-18 16:09:30,686 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> PkOZhlRNJdgamil.com
+2023-01-18 16:09:31,833 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zkkmKIVhiRgamil.com
+2023-01-18 16:09:31,892 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:11:12,553 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:11:12,663 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:11:16,203 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:11:18,622 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-18 16:11:20,868 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> dNXLoFoIDg
+2023-01-18 16:11:22,154 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> opghfiLocs
+2023-01-18 16:11:23,415 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> RFSqVjfzpn
+2023-01-18 16:11:24,641 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> fCzYRksKVG
+2023-01-18 16:11:25,902 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zgLahByIKh
+2023-01-18 16:11:26,112 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:11:26,255 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-18 16:11:27,483 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2605952027
+2023-01-18 16:11:28,955 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3879796120
+2023-01-18 16:11:30,153 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4936673628
+2023-01-18 16:11:31,441 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> bprqhvEIiL@gamil.com
+2023-01-18 16:11:32,736 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ZgqsXFirIV@gamil.com
+2023-01-18 16:11:32,900 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:13:37,149 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:13:38,617 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:13:40,518 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:13:41,986 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 16:13:45,100 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 16:13:47,631 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:13:48,252 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 16:13:49,303 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:13:51,132 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:13:51,393 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 16:13:52,543 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 16:13:52,807 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 16:13:53,708 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 16:13:54,823 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 16:13:54,914 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:13:55,961 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 16:13:56,991 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 16:13:57,058 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 16:13:57,143 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 16:13:59,105 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 16:14:02,239 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 16:14:03,347 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 16:14:04,463 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 16:14:05,598 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-04
+2023-01-18 16:14:05,687 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:14:07,813 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 16:14:07,880 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 16:14:07,942 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 16:14:12,382 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:14:23,138 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:15:51,616 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:15:51,687 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:15:54,623 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:15:56,173 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 16:15:59,281 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 16:16:02,420 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 16:16:05,552 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 16:16:06,682 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 16:16:07,800 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 16:16:07,872 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:16:09,948 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 16:16:10,026 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 16:16:10,113 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 16:16:25,358 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:22:13,908 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:22:15,144 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:22:17,240 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:22:18,731 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 16:22:21,835 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 16:22:24,995 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 16:22:28,114 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 16:22:29,214 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 16:22:30,332 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 16:22:30,412 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:22:32,488 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 16:22:32,577 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 16:22:32,698 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 16:22:47,886 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:28:09,522 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-18 16:28:10,720 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-18 16:28:12,639 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-18 16:28:14,322 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-18 16:28:17,418 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-18 16:28:20,554 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-18 16:28:23,677 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-18 16:28:24,778 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-18 16:28:25,930 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-18 16:28:26,016 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:28:28,086 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-18 16:28:28,161 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-18 16:28:28,241 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-18 16:28:43,452 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-18 16:28:47,238 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-18 16:28:48,783 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> puattTJVDq
+2023-01-18 16:28:49,914 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> HvfAJSSpzn
+2023-01-18 16:28:51,029 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> pGmDrElBnk
+2023-01-18 16:28:52,147 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> YceWApIuli
+2023-01-18 16:28:53,262 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> nAjsMOjqsi
+2023-01-18 16:28:53,348 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-18 16:28:53,413 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-18 16:28:54,517 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9259324928
+2023-01-18 16:28:55,652 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2874685431
+2023-01-18 16:28:56,800 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8700048630
+2023-01-18 16:28:57,915 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> preCDAIyMm@gamil.com
+2023-01-18 16:28:57,994 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 12:58:57,524 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 12:58:58,936 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 12:59:00,706 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 12:59:02,283 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 12:59:05,437 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 12:59:08,611 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 12:59:11,867 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 12:59:13,062 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 12:59:14,464 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 12:59:14,586 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 12:59:16,680 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 12:59:16,776 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 12:59:16,860 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 12:59:32,207 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 12:59:36,040 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 12:59:37,909 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> gmqbeqwHiR
+2023-01-20 12:59:39,125 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> IGjLFLtFvE
+2023-01-20 12:59:40,309 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> tIaGHIGXSn
+2023-01-20 12:59:41,523 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> EuudFaZFLR
+2023-01-20 12:59:42,750 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> wgyyQzWEee
+2023-01-20 12:59:43,009 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 12:59:43,136 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 12:59:44,278 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0530638991
+2023-01-20 12:59:45,469 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0017135738
+2023-01-20 12:59:46,648 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6840719325
+2023-01-20 12:59:47,839 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> aLgVwPxyrE@gamil.com
+2023-01-20 12:59:47,960 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 12:59:51,536 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 12:59:52,723 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 12:59:53,901 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> IyYVgnSIHKfW
+2023-01-20 12:59:55,066 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zYEXtxHfJaFR
+2023-01-20 12:59:56,230 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7251703008
+2023-01-20 12:59:57,380 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5934011325
+2023-01-20 12:59:58,575 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1698659311
+2023-01-20 12:59:58,716 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 17:56:47,995 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 17:56:49,456 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 17:56:51,382 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 17:56:53,213 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 17:56:56,470 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 17:56:59,642 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 17:57:02,866 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 17:57:04,045 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 17:57:05,301 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 17:57:05,425 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 17:57:07,507 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 17:57:07,614 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 17:57:07,719 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 17:57:23,059 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 17:57:27,162 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 17:57:28,663 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FjyEffpQDT
+2023-01-20 17:57:29,856 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> KcKNsCXXJm
+2023-01-20 17:57:31,001 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> pcZVNRbbYO
+2023-01-20 17:57:32,183 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> dzBJmsAMSI
+2023-01-20 17:57:33,327 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> PXmHzlmvDF
+2023-01-20 17:57:33,474 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 17:57:33,558 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 17:57:34,689 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3688582945
+2023-01-20 17:57:35,916 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8161716115
+2023-01-20 17:57:37,098 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4999007063
+2023-01-20 17:57:38,321 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> EIAFaNhkZK@gamil.com
+2023-01-20 17:57:38,485 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 17:57:42,156 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 17:57:43,319 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 17:57:44,451 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ZLnrcuaAOVyd
+2023-01-20 17:57:45,633 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zhCUZpMtHLtZ
+2023-01-20 17:57:46,796 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1089518028
+2023-01-20 17:57:48,023 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9434026577
+2023-01-20 17:57:49,203 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7331987983
+2023-01-20 17:57:49,326 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 17:57:53,646 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:02:35,169 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:02:36,464 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:02:38,503 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:02:40,045 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:02:43,187 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:02:46,358 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:02:49,514 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:02:50,661 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:02:51,839 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:02:51,921 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:02:54,024 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:02:54,160 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:02:54,267 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:03:09,551 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:03:13,415 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:03:15,064 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> obFnEfngKK
+2023-01-20 18:03:16,232 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> mJcPhmIADS
+2023-01-20 18:03:17,381 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> VrFwtTJNPn
+2023-01-20 18:03:18,538 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> mrDPUeQdXT
+2023-01-20 18:03:19,690 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> vHrFhlwfAG
+2023-01-20 18:03:19,797 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:03:19,904 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:03:21,046 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6561720444
+2023-01-20 18:03:22,182 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8564419579
+2023-01-20 18:03:23,348 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0169089000
+2023-01-20 18:03:24,592 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> bSOqHuAdQa@gamil.com
+2023-01-20 18:03:24,681 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:03:28,243 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:03:29,338 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:03:30,490 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> frBCrbgjciSr
+2023-01-20 18:03:31,638 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> jYulfiBIReJG
+2023-01-20 18:03:32,778 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6037500062
+2023-01-20 18:03:33,896 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9478459452
+2023-01-20 18:03:35,036 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5333262996
+2023-01-20 18:03:35,112 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:05:17,539 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:05:17,678 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:05:21,074 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:05:22,778 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:05:25,945 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:05:29,224 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:05:32,439 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:05:33,652 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:05:34,914 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:05:35,079 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:05:37,184 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:05:37,308 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:05:37,419 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:05:52,749 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:05:56,961 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:05:58,498 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ufPCJCuTcq
+2023-01-20 18:05:59,689 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> uDLaOqCNaZ
+2023-01-20 18:06:00,924 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ziAKxbAHDK
+2023-01-20 18:06:02,118 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> WjDFsAMoBr
+2023-01-20 18:06:03,323 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> owhOQPZZeW
+2023-01-20 18:06:03,448 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:06:03,542 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:06:04,723 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0997870609
+2023-01-20 18:06:05,894 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7938059456
+2023-01-20 18:06:07,058 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2628454734
+2023-01-20 18:06:08,278 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> xNXVLvPBiQ@gamil.com
+2023-01-20 18:06:08,363 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:06:12,012 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:06:13,129 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:06:14,388 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> COaTUkqpcWZn
+2023-01-20 18:06:15,595 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> DLxLIRlyiGLH
+2023-01-20 18:06:16,748 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8532872368
+2023-01-20 18:06:17,900 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4244532124
+2023-01-20 18:06:19,039 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5988966316
+2023-01-20 18:06:33,427 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:07:32,729 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:18,949 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:08:34,945 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:08:45,745 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:46,609 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:47,459 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:48,255 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:49,060 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:49,886 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:50,806 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:51,577 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:52,457 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:53,226 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:53,979 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:54,702 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:55,423 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:56,175 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:56,862 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:58,002 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:58,848 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:58,932 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:08:59,003 - OrangeHRM_Full__Test -INFO - miss match box name
+2023-01-20 18:13:51,115 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:13:52,374 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:13:54,158 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:13:55,822 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:13:58,957 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:14:02,133 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:14:05,319 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:14:06,514 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:14:07,744 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:14:07,878 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:14:09,964 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:14:10,069 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:14:10,153 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:14:25,416 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:14:29,207 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:14:30,786 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> DDnkZzevQY
+2023-01-20 18:14:32,012 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> XzJNtebDip
+2023-01-20 18:14:33,192 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> XpXYDfrgfe
+2023-01-20 18:14:34,357 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> gYkzWOMFXG
+2023-01-20 18:14:35,537 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> EAXazBdEID
+2023-01-20 18:14:35,682 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:14:35,768 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:14:36,904 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0579522347
+2023-01-20 18:14:38,088 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5938698106
+2023-01-20 18:14:39,269 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5297263225
+2023-01-20 18:14:40,527 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> IEMlkYQMCP@gamil.com
+2023-01-20 18:14:40,627 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:14:44,234 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:14:45,368 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:14:46,500 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> CLqfMDLfKadj
+2023-01-20 18:14:47,663 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zKDMUbDrWRGL
+2023-01-20 18:14:48,831 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9882716143
+2023-01-20 18:14:49,963 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3507207888
+2023-01-20 18:14:51,156 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4965853878
+2023-01-20 18:14:51,282 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:16:53,463 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:16:54,878 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:16:57,048 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:16:58,715 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:17:01,910 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:17:05,096 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:17:08,255 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:17:09,389 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:17:10,557 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:17:10,642 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:17:12,748 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:17:12,840 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:17:12,932 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:17:28,155 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:17:32,045 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:17:33,713 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> CUvyfuHrPa
+2023-01-20 18:17:34,884 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> nPqEjgPOio
+2023-01-20 18:17:36,038 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zrGYKsHqrn
+2023-01-20 18:17:37,203 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> rrLscAnRCu
+2023-01-20 18:17:38,371 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> QmtsSncPJn
+2023-01-20 18:17:38,488 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:17:38,571 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:17:39,710 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1723265810
+2023-01-20 18:17:40,847 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3959999329
+2023-01-20 18:17:42,026 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7537108626
+2023-01-20 18:17:43,195 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> IGZfGOSHQw@gamil.com
+2023-01-20 18:17:43,293 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:17:47,000 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:17:48,087 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:17:49,223 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> WPwHzcXsamnV
+2023-01-20 18:17:50,373 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> hblXoygvFuUh
+2023-01-20 18:17:51,494 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6539292258
+2023-01-20 18:17:52,619 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2505350342
+2023-01-20 18:17:53,741 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1229649475
+2023-01-20 18:17:53,827 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:17:57,207 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:17:59,313 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:18:02,409 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-20 18:22:39,319 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:22:40,862 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:22:43,240 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:22:44,951 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:22:48,093 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:22:51,273 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:22:54,490 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:22:55,650 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:22:56,880 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:22:56,979 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:22:59,075 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:22:59,169 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:22:59,276 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:23:14,565 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:23:18,582 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:23:20,243 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UzHMhrWmyi
+2023-01-20 18:23:21,423 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> rlEnLFHzGA
+2023-01-20 18:23:22,588 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> DTlSDIlLdi
+2023-01-20 18:23:23,800 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FEVxyoEmqH
+2023-01-20 18:23:24,966 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> fvXoREMvoW
+2023-01-20 18:23:25,082 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:23:25,171 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:23:26,305 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0995646118
+2023-01-20 18:23:27,500 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1785688089
+2023-01-20 18:23:28,680 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6134731167
+2023-01-20 18:23:29,845 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> OaZxuBLecr@gamil.com
+2023-01-20 18:23:29,962 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:23:33,707 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:23:34,859 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:23:36,010 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> NsHDWEugBDTH
+2023-01-20 18:23:37,191 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> MhOcjTcGRHPv
+2023-01-20 18:23:38,324 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6646821907
+2023-01-20 18:23:39,485 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5245986790
+2023-01-20 18:23:40,664 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9847761930
+2023-01-20 18:23:40,778 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:25:08,743 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:25:08,865 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:25:13,312 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:25:15,179 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-20 18:25:18,333 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-20 18:25:21,522 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-20 18:25:24,667 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-20 18:25:25,803 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-20 18:25:26,999 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-20 18:25:27,175 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:25:29,259 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-20 18:25:29,374 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:25:29,456 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-20 18:25:44,779 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:25:49,297 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-20 18:25:51,059 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> hqTrmnEqiM
+2023-01-20 18:25:52,288 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> YpUgIdbiFV
+2023-01-20 18:25:53,583 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> SjqDtogEfz
+2023-01-20 18:25:54,794 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> tZkIuDZPBw
+2023-01-20 18:25:55,976 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> pRyzFMimGr
+2023-01-20 18:25:56,084 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-20 18:25:56,170 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-20 18:25:57,320 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4972805643
+2023-01-20 18:25:58,486 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9094274602
+2023-01-20 18:25:59,653 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5411433638
+2023-01-20 18:26:00,854 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> NuxKguLLyp@gamil.com
+2023-01-20 18:26:00,947 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-20 18:26:04,559 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:26:05,693 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:26:06,861 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> xwTQPJMMenKZ
+2023-01-20 18:26:08,036 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> sFPPnXzErmlt
+2023-01-20 18:26:09,185 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6601202350
+2023-01-20 18:26:10,432 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2327876078
+2023-01-20 18:26:11,613 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5802164512
+2023-01-20 18:27:20,992 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-20 18:27:22,346 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-20 18:27:24,351 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-20 18:27:28,034 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-20 18:27:29,119 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-20 18:27:30,278 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> NpFgdexCIqKT
+2023-01-20 18:27:31,426 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> qixjSXkeiQRR
+2023-01-20 18:27:32,566 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2946972628
+2023-01-20 18:27:33,746 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6217428051
+2023-01-20 18:27:34,938 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2685072577
+2023-01-20 18:27:40,616 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-22 12:41:46,197 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-22 12:41:46,324 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-22 12:41:49,280 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-22 12:41:50,992 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-22 12:41:54,160 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-22 12:41:57,381 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-22 12:42:00,563 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-22 12:42:01,726 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-22 12:42:02,905 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-22 12:42:03,028 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-22 12:42:05,120 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-22 12:42:05,232 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-22 12:42:05,361 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-22 12:42:20,728 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-22 12:42:24,405 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-22 12:42:26,005 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> YyZRcPyBid
+2023-01-22 12:42:27,198 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ChzGcLnoYo
+2023-01-22 12:42:28,376 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> MvbWlYMmig
+2023-01-22 12:42:29,556 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> QzYOSAAMaD
+2023-01-22 12:42:30,717 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> JrkKjogcht
+2023-01-22 12:42:30,883 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-22 12:42:30,975 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-22 12:42:32,118 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6138092893
+2023-01-22 12:42:33,322 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2677472027
+2023-01-22 12:42:34,486 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9980591507
+2023-01-22 12:42:35,679 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> KKEzaOlCxk@gamil.com
+2023-01-22 12:42:35,778 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:28:08,307 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 15:28:08,406 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 15:28:11,652 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 15:28:13,288 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 15:28:14,555 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:28:15,694 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> wYvjCBiSQq
+2023-01-24 15:28:15,808 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:28:15,881 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 15:28:17,011 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> JHnwpK
+2023-01-24 15:28:18,163 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 15:29:57,925 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 15:29:59,138 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 15:30:00,994 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 15:30:02,293 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 15:30:03,488 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:30:04,614 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> BOiGszGnuU
+2023-01-24 15:30:04,688 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:30:04,773 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 15:30:05,892 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ZcMxVx
+2023-01-24 15:30:07,014 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 15:31:00,864 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 15:31:02,356 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 15:31:04,543 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 15:31:05,817 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 15:31:06,936 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:31:08,086 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> tjWcxykNCR
+2023-01-24 15:31:08,171 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:31:08,249 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 15:31:09,364 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> lHFQrX
+2023-01-24 15:31:10,498 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 15:31:10,581 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:31:14,370 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:31:16,530 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:31:19,654 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 15:35:27,198 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 15:35:27,274 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 15:35:30,210 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 15:35:31,430 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 15:35:32,509 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:35:33,610 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> GDctilxbAM
+2023-01-24 15:35:33,668 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:35:33,730 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 15:35:34,825 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FHLvlF
+2023-01-24 15:35:35,930 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 15:35:35,985 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:35:39,255 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:35:41,320 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:35:44,384 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 15:36:43,284 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 15:36:44,552 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 15:36:46,874 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 15:36:48,358 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-24 15:36:51,485 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-24 15:36:54,612 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-24 15:36:57,757 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-24 15:36:58,852 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-24 15:36:59,979 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-24 15:37:00,040 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:37:02,136 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-24 15:37:02,210 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:37:02,284 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-24 15:37:17,535 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:37:21,143 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-24 15:37:22,588 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UkAjDVCImb
+2023-01-24 15:37:23,703 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FewxwFZJrp
+2023-01-24 15:37:24,819 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> SWsXyELNSx
+2023-01-24 15:37:25,920 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UrZgLtPQGL
+2023-01-24 15:37:27,040 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> DquaCxmAoF
+2023-01-24 15:37:27,119 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:37:27,182 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 15:37:28,277 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7844646218
+2023-01-24 15:37:29,389 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5059020526
+2023-01-24 15:37:30,506 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8746814761
+2023-01-24 15:37:31,629 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ZksZkxzHhW@gamil.com
+2023-01-24 15:37:31,692 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:37:35,432 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-24 15:37:36,506 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:37:37,624 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> jIqbworDOqoy
+2023-01-24 15:37:38,724 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> vloyyZODuagg
+2023-01-24 15:37:39,825 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0725452067
+2023-01-24 15:37:40,906 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9958740543
+2023-01-24 15:37:42,006 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4209127043
+2023-01-24 15:37:42,081 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:37:45,648 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:37:47,711 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:37:50,797 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 15:37:54,368 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 15:37:55,457 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 15:37:56,550 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> AKIrOCXwAY
+2023-01-24 15:37:56,604 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:37:56,663 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 15:37:57,755 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> vugdFh
+2023-01-24 15:37:58,857 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 15:37:58,912 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 15:38:02,193 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:38:04,253 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 15:38:07,324 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:01:43,933 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:01:45,144 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:01:46,904 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:01:50,553 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:04:02,676 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:04:02,741 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:04:05,923 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:04:09,682 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:04:10,774 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:04:11,916 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7139848621
+2023-01-24 16:04:13,011 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:04:14,111 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:04:15,216 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:04:15,290 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:04:15,354 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:04:16,469 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:04:17,604 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:04:17,662 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:07:34,931 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:07:36,310 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:07:38,307 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:07:41,973 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:07:43,074 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:07:44,222 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9089058082
+2023-01-24 16:07:45,322 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:07:46,422 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:07:47,538 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:07:47,613 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:07:47,676 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:07:48,766 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:07:49,924 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:07:49,986 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:10:27,173 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:10:28,651 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:10:31,313 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:10:34,951 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:10:36,037 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:10:37,158 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4916048197
+2023-01-24 16:10:38,240 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:10:39,339 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:10:40,444 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:10:40,538 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:10:40,605 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:10:41,701 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:10:42,870 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:10:42,933 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:13:25,530 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:13:26,837 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:13:29,297 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:13:33,068 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:13:34,157 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:13:35,273 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> kWbfONaajP
+2023-01-24 16:13:36,371 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:13:37,463 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:13:38,573 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:13:38,650 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:13:38,717 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:13:39,822 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:13:40,958 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:13:41,014 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:17:54,173 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:17:55,591 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:17:57,699 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:17:59,282 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-24 16:18:02,391 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-24 16:18:05,522 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-24 16:18:08,641 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-24 16:18:09,739 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-24 16:18:10,869 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-24 16:18:10,946 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:18:13,019 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-24 16:18:13,088 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:18:13,160 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-24 16:18:28,399 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:18:32,049 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-24 16:18:33,560 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> RGnXhJPAOM
+2023-01-24 16:18:34,686 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> rxBBRFYxQL
+2023-01-24 16:18:35,802 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ceoBBOygSn
+2023-01-24 16:18:36,936 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> YFnItAhRCr
+2023-01-24 16:18:38,051 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> PeuJuAyamn
+2023-01-24 16:18:38,140 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:18:38,208 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:18:39,303 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7713601006
+2023-01-24 16:18:40,448 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5529803323
+2023-01-24 16:18:41,579 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1651509628
+2023-01-24 16:18:42,698 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> KpJudeBruO@gamil.com
+2023-01-24 16:18:42,757 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:18:46,261 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-24 16:18:47,325 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:18:48,425 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ubPHwpqAEIli
+2023-01-24 16:18:49,539 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> WkiHfxStbQJV
+2023-01-24 16:18:50,637 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9594774472
+2023-01-24 16:18:51,722 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8584638153
+2023-01-24 16:18:52,839 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 4664285942
+2023-01-24 16:18:52,900 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:18:56,256 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:18:58,311 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:19:01,374 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:19:04,915 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 16:19:06,012 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:19:07,108 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> yAodIbfEfG
+2023-01-24 16:19:07,162 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:19:07,219 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 16:19:08,312 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> WNycRA
+2023-01-24 16:19:09,430 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:19:09,485 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:19:12,921 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:19:14,986 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:19:18,048 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:19:52,877 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:19:54,115 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:19:56,145 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:19:57,775 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-24 16:20:00,868 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-24 16:20:03,996 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-24 16:20:07,101 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-24 16:20:08,195 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-24 16:20:09,320 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-24 16:20:09,380 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:20:11,445 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-24 16:20:11,522 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:20:11,616 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-24 16:20:26,825 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:20:30,512 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-24 16:20:31,981 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> jlsOLOpPal
+2023-01-24 16:20:33,096 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> TsmUGkwnqq
+2023-01-24 16:20:34,194 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> VqkDDPMMHT
+2023-01-24 16:20:35,305 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ERUxYqYBEL
+2023-01-24 16:20:36,417 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> JccVZTQuAT
+2023-01-24 16:20:36,500 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:20:36,571 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:20:37,687 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0255168640
+2023-01-24 16:20:38,806 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 9161712175
+2023-01-24 16:20:39,903 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7768494845
+2023-01-24 16:20:41,016 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ydvQXGWEDR@gamil.com
+2023-01-24 16:20:41,077 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:20:44,725 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-24 16:20:45,793 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:20:46,904 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> dRQZFBDIAFaI
+2023-01-24 16:20:48,003 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> eHMRfDtZeEtE
+2023-01-24 16:20:49,106 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1359936934
+2023-01-24 16:20:50,203 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6223231896
+2023-01-24 16:20:51,299 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 0656987644
+2023-01-24 16:20:51,366 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:20:54,667 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:20:56,739 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:20:59,808 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:21:03,337 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 16:21:04,399 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:21:05,496 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> EqyWdezgvN
+2023-01-24 16:21:05,545 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:21:05,600 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 16:21:06,700 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> NALJRW
+2023-01-24 16:21:07,795 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:21:07,846 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:21:11,163 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:21:13,227 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:21:16,274 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:21:20,028 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:21:21,127 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:21:22,260 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> SOXHACfNYL
+2023-01-24 16:21:23,387 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:21:24,467 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:21:25,562 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:21:25,637 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:21:25,694 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:21:26,770 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:21:27,920 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:21:27,986 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:21:31,590 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:21:32,714 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:21:32,774 - OrangeHRM_Full__Test -INFO - successfully click on Visa
+2023-01-24 16:21:33,872 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UGgdYkxcBa
+2023-01-24 16:21:34,971 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:21:36,055 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:21:37,154 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:21:37,242 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:21:37,299 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:21:38,382 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:21:39,527 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:21:39,586 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:32:44,009 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-01-24 16:32:45,299 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-01-24 16:32:47,247 - OrangeHRM_Full__Test -INFO - successfully click on My Info
+2023-01-24 16:32:49,063 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> akash
+2023-01-24 16:32:52,208 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> asg
+2023-01-24 16:32:55,395 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> guttedar
+2023-01-24 16:32:58,556 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 974959
+2023-01-24 16:32:59,736 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 886699
+2023-01-24 16:33:00,935 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 98756948974
+2023-01-24 16:33:01,063 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:33:03,222 - OrangeHRM_Full__Test -INFO - successfully click on Married
+2023-01-24 16:33:03,329 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:33:03,443 - OrangeHRM_Full__Test -INFO - successfully click on Browse
+2023-01-24 16:33:18,745 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:33:22,456 - OrangeHRM_Full__Test -INFO - successfully click on Contact Details
+2023-01-24 16:33:24,035 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UruqlMmdrO
+2023-01-24 16:33:25,253 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> upfyymPKOc
+2023-01-24 16:33:26,400 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> XBDUHASSWq
+2023-01-24 16:33:27,563 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> HedLFtRwum
+2023-01-24 16:33:28,755 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> WBwBIPfXxh
+2023-01-24 16:33:28,891 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:33:28,968 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:33:30,110 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3688233452
+2023-01-24 16:33:31,269 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3801092221
+2023-01-24 16:33:32,447 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 5044702413
+2023-01-24 16:33:33,633 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> vhWXMYFrrg@gamil.com
+2023-01-24 16:33:33,746 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:33:37,305 - OrangeHRM_Full__Test -INFO - successfully click on Emergency Contacts
+2023-01-24 16:33:38,480 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:33:39,625 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> sBTfrurqDVTl
+2023-01-24 16:33:40,777 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> opIIpGxqrkiN
+2023-01-24 16:33:41,939 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 1472732566
+2023-01-24 16:33:43,136 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 8374193930
+2023-01-24 16:33:44,303 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2504201610
+2023-01-24 16:33:44,432 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:33:48,036 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:33:50,155 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:33:53,323 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:33:56,989 - OrangeHRM_Full__Test -INFO - successfully click on Dependents
+2023-01-24 16:33:58,111 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:33:59,236 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> dNCwsRrJMp
+2023-01-24 16:33:59,376 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:33:59,468 - OrangeHRM_Full__Test -INFO - successfully click on Other
+2023-01-24 16:34:00,608 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FEYHFs
+2023-01-24 16:34:01,791 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:34:01,875 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:34:05,946 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:34:08,115 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:34:11,241 - OrangeHRM_Full__Test -INFO - successfully click on Yes, Delete
+2023-01-24 16:34:15,290 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:34:16,488 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:34:17,659 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> VDPpuCsRrq
+2023-01-24 16:34:18,807 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:34:19,945 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:34:21,115 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:34:21,290 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:34:21,380 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:34:22,508 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:34:23,742 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:34:23,857 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-01-24 16:34:27,536 - OrangeHRM_Full__Test -INFO - successfully click on Immigration
+2023-01-24 16:34:28,700 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-01-24 16:34:28,787 - OrangeHRM_Full__Test -INFO - successfully click on Visa
+2023-01-24 16:34:29,930 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> fHupLAQKOC
+2023-01-24 16:34:31,039 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-25
+2023-01-24 16:34:32,185 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2025-01-25
+2023-01-24 16:34:33,346 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> passed
+2023-01-24 16:34:33,493 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-01-24 16:34:33,568 - OrangeHRM_Full__Test -INFO - successfully click on India
+2023-01-24 16:34:34,671 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2023-01-30
+2023-01-24 16:34:35,859 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Successfully passed test case 
+2023-01-24 16:34:35,945 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:08:07,699 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:08:09,282 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:08:11,658 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:08:13,732 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:08:14,279 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:19:05,406 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:19:06,785 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:19:08,517 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:19:10,691 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:19:11,408 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:19:12,868 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:19:14,322 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> PyYBkQpnLU
+2023-02-02 17:19:14,466 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:19:14,548 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:19:15,662 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 03
+2023-02-02 17:19:16,775 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 32
+2023-02-02 17:19:16,851 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:19:16,933 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:20:31,628 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:20:33,034 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:20:35,110 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:20:37,222 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:20:38,079 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:20:39,317 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:20:40,883 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> rHkbsgxrpe
+2023-02-02 17:20:41,000 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:20:41,093 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:20:42,205 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 2
+2023-02-02 17:20:43,358 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 6
+2023-02-02 17:20:43,435 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:20:43,520 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:25:32,168 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:25:32,253 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:25:35,609 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:25:37,726 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:25:38,259 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:25:39,441 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:25:40,951 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> gtLfSwtFOC
+2023-02-02 17:25:41,164 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:25:41,244 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:25:42,363 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 3
+2023-02-02 17:25:43,486 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 7
+2023-02-02 17:35:05,713 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:35:06,980 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:35:08,688 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:35:10,767 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:35:11,421 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:35:12,953 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:35:14,709 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> zqoOFDHDHe
+2023-02-02 17:35:14,830 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:35:14,906 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:35:16,028 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 22
+2023-02-02 17:35:17,190 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 65
+2023-02-02 17:35:17,294 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:35:17,384 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:36:13,195 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:36:14,621 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:36:16,651 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:36:18,779 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:36:19,354 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:36:20,280 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:36:21,839 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> wHnVOCcgZf
+2023-02-02 17:36:21,952 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:36:22,028 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:36:23,141 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 87
+2023-02-02 17:36:23,213 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:36:23,302 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:39:38,435 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:39:39,695 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:39:41,344 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:39:43,428 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:39:43,906 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:39:45,050 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:39:46,641 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ecZwMPACwk
+2023-02-02 17:39:46,761 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:39:46,841 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:39:47,955 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 64
+2023-02-02 17:39:48,102 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:39:48,172 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:40:34,248 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:40:35,598 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:40:37,239 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:40:39,340 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:40:39,851 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:40:41,185 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:40:42,741 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> yTzEBxcmlX
+2023-02-02 17:40:42,853 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:40:42,930 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:40:44,046 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> 19
+2023-02-02 17:40:44,175 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:40:44,250 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:41:09,761 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:41:11,278 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:41:13,236 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:41:15,361 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:41:15,870 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:41:17,015 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:41:18,425 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> gkWVXthXSD
+2023-02-02 17:41:18,563 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:41:18,639 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:41:18,710 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:41:18,784 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:43:29,978 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:43:31,342 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:43:33,174 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:43:35,346 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:43:35,883 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:43:36,900 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:43:38,460 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> BJhzHFNHFI
+2023-02-02 17:43:38,590 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:43:38,665 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:43:38,748 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:43:38,830 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:49:23,690 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:49:25,343 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:49:27,257 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:49:29,392 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:49:29,867 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:49:31,143 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:49:32,691 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> kgOCoTyAXn
+2023-02-02 17:49:32,811 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:49:32,886 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:49:32,957 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:49:33,029 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:53:34,248 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:53:35,644 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:53:37,536 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:53:39,692 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:53:40,355 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:53:41,485 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:53:42,932 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> sOMuckttAm
+2023-02-02 17:53:43,047 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:53:43,125 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:53:43,195 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:53:43,269 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:56:03,948 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 17:56:05,720 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 17:56:07,749 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 17:56:09,930 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 17:56:10,450 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 17:56:12,032 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 17:56:13,554 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> GGtOlJgHUR
+2023-02-02 17:56:13,664 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:56:13,741 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:56:13,810 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:56:13,883 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 17:56:13,943 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 17:56:50,338 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 17:56:50,417 - OrangeHRM_Full__Test -INFO - successfully click on Search
+2023-02-02 18:02:33,381 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:02:33,472 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:02:37,049 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:02:39,223 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:02:39,885 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 18:02:40,850 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:02:42,405 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UnrqYnNwlO
+2023-02-02 18:02:42,485 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:02:42,559 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:02:42,631 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:02:42,706 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:02:42,776 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:02:50,350 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:02:50,438 - OrangeHRM_Full__Test -INFO - successfully click on Search
+2023-02-02 18:05:13,440 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:05:14,733 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:05:16,685 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:05:18,770 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:05:19,230 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 18:05:20,265 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:05:21,749 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> TZKgevvEbu
+2023-02-02 18:05:21,835 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:05:21,918 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:05:21,996 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:05:22,073 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:05:22,126 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:05:29,490 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:05:29,579 - OrangeHRM_Full__Test -INFO - successfully click on Search
+2023-02-02 18:06:07,978 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:06:10,489 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:08:44,567 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:08:45,924 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:08:47,842 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:08:50,003 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:08:50,608 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:08:51,598 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:08:53,229 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> lsvRpjgUZy
+2023-02-02 18:08:53,342 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:08:53,413 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:08:53,487 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:08:53,561 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:08:53,611 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:09:00,693 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:09:00,770 - OrangeHRM_Full__Test -INFO - successfully click on Search
+2023-02-02 18:09:32,552 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:09:35,192 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:10:29,450 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:10:30,929 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:10:32,906 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:10:35,054 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:10:35,554 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 18:10:36,711 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:10:38,168 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> JfeTSEdXws
+2023-02-02 18:10:38,308 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:10:38,386 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:10:38,460 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:10:38,532 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:11:36,016 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:11:37,379 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:11:39,055 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:11:41,212 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:11:41,724 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-02 18:11:42,952 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:11:44,502 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> bCGTBuTIEu
+2023-02-02 18:11:44,618 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:11:44,692 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:11:44,762 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:11:44,838 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:11:44,889 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:11:49,817 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:11:49,909 - OrangeHRM_Full__Test -INFO - successfully click on Search
+2023-02-02 18:11:52,530 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:11:55,221 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:12:31,183 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-02 18:12:32,670 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-02 18:12:34,674 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-02 18:12:36,829 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-02 18:12:37,448 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:12:38,669 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-02 18:12:40,219 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> LagGnihhyM
+2023-02-02 18:12:40,336 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:12:40,414 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-02 18:12:40,483 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:12:40,561 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-02 18:15:27,677 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-02 18:15:31,101 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 12:02:06,471 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 12:02:07,952 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 12:02:11,240 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 12:02:13,418 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 12:02:14,183 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-21 12:02:16,073 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 12:02:17,900 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> mUvgsIGZXC
+2023-02-21 12:02:18,105 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 12:02:18,277 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 12:02:18,430 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 12:02:18,601 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 12:02:27,017 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 12:02:31,185 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:17:33,767 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 14:17:33,861 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 14:17:37,459 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 14:17:39,581 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 14:17:40,231 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:17:41,539 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 14:17:43,113 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> yHoeQJqnig
+2023-02-21 14:17:43,220 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:17:43,295 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 14:17:43,366 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:17:43,463 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 14:17:54,467 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 14:17:55,066 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:17:56,265 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 14:17:57,884 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> pPUzhzetql
+2023-02-21 14:17:59,096 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> vUxuOTgkro
+2023-02-21 14:18:00,252 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> FaPzCpPOrS
+2023-02-21 14:18:00,335 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 14:18:23,241 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 14:18:26,980 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 14:18:29,217 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 14:18:31,332 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 14:18:31,913 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-21 14:18:33,129 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 14:18:34,812 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> RQTWITASYe
+2023-02-21 14:18:34,917 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:18:34,992 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 14:18:35,061 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:18:35,133 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 14:18:43,616 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:18:46,898 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:18:49,977 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 14:18:50,984 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 14:18:52,886 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 14:18:54,580 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> UdnJtBWTBO
+2023-02-21 14:18:55,726 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ElKpBWyquZ
+2023-02-21 14:18:56,879 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> ooufkWjxBg
+2023-02-21 14:18:56,978 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:18:08,911 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 15:18:11,611 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 15:18:15,431 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 15:18:17,609 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:18:18,308 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:19,865 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:18:21,513 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> DHLxwhmhAm
+2023-02-21 15:18:21,627 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:21,704 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 15:18:21,778 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:21,853 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:18:28,706 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:31,567 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:34,694 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:18:35,829 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:18:38,431 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:18:40,221 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> edUwpagWOn
+2023-02-21 15:18:41,332 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:19:29,743 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 15:19:32,440 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 15:19:34,711 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 15:19:36,836 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:19:37,487 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:39,214 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:19:40,895 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> bhHjKKzime
+2023-02-21 15:19:41,000 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:41,075 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 15:19:41,147 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:41,247 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:19:46,780 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:50,018 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:53,206 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:19:56,182 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:19:57,739 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:19:59,404 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> bWXoEVXbkT
+2023-02-21 15:20:00,524 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:20:04,775 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> IGVxtRbKcc
+2023-02-21 15:20:04,877 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:24:30,470 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 15:24:33,158 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 15:24:36,107 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 15:24:38,230 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:24:38,900 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:24:40,408 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:24:42,099 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> TllFLhApox
+2023-02-21 15:24:42,209 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:24:42,285 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 15:24:42,355 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:24:42,432 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:24:53,540 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:24:57,613 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:25:00,722 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:25:01,441 - OrangeHRM_Full__Test -INFO - successfully click on Trackers
+2023-02-21 15:25:03,995 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:25:05,878 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> KkKzqpIAvO
+2023-02-21 15:25:07,002 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:25:11,297 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:25:14,529 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:30:24,013 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 15:30:26,935 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 15:30:30,744 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 15:30:32,897 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:30:33,576 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:35,269 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:30:37,505 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> AerMXAmJNj
+2023-02-21 15:30:37,617 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:37,697 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 15:30:37,775 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:37,848 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:30:43,454 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:46,875 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:49,966 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:30:50,667 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:30:52,665 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:30:54,439 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> LfqtuBfYje
+2023-02-21 15:30:55,622 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:30:59,875 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> p
+2023-02-21 15:33:15,771 - OrangeHRM_Full__Test -INFO - login button color verify successfully passed
+2023-02-21 15:33:17,689 - OrangeHRM_Full__Test -INFO - successfully click on Login
+2023-02-21 15:33:21,688 - OrangeHRM_Full__Test -INFO - successfully click on Performance
+2023-02-21 15:33:23,801 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:33:24,607 - OrangeHRM_Full__Test -INFO - successfully click on KPIs
+2023-02-21 15:33:26,658 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:33:28,318 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> AJbxRyaKuQ
+2023-02-21 15:33:28,441 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:33:28,514 - OrangeHRM_Full__Test -INFO - successfully click on Head of Support
+2023-02-21 15:33:28,584 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:33:28,659 - OrangeHRM_Full__Test -INFO - successfully click on Save
+2023-02-21 15:33:34,046 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:33:36,958 - OrangeHRM_Full__Test -INFO - successfully click on 
+2023-02-21 15:33:40,065 - OrangeHRM_Full__Test -INFO - successfully click on Configure
+2023-02-21 15:33:41,165 - OrangeHRM_Full__Test -INFO - successfully click on Trackers
+2023-02-21 15:33:44,815 - OrangeHRM_Full__Test -INFO - successfully click on Add
+2023-02-21 15:33:47,337 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> QuVvDERmKQ
+2023-02-21 15:33:48,491 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Suresh
+2023-02-21 15:33:52,704 - OrangeHRM_Full__Test -INFO - Text entered successfully passed ==> Dipali
+2023-02-21 15:33:55,842 - OrangeHRM_Full__Test -INFO - successfully click on Save

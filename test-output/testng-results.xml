@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[successfully click on Login]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Performance]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Configure]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on KPIs]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Add]]>
+    </line>
+    <line>
+      <![CDATA[Text entered successfully passed ==> AJbxRyaKuQ]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on ]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Head of Support]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on ]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Save]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on ]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on ]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Configure]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Trackers]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Add]]>
+    </line>
+    <line>
+      <![CDATA[Text entered successfully passed ==> QuVvDERmKQ]]>
+    </line>
+    <line>
+      <![CDATA[Text entered successfully passed ==> Suresh]]>
+    </line>
+    <line>
+      <![CDATA[Text entered successfully passed ==> Dipali]]>
+    </line>
+    <line>
+      <![CDATA[successfully click on Save]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-21T15:33:00 IST" name="Default suite" finished-at="2023-02-21T15:33:55 IST" duration-ms="55168">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T15:33:00 IST" name="Default test" finished-at="2023-02-21T15:33:55 IST" duration-ms="55168">
+      <class name="OrangeHRM_Test_Run.OrangeHRM_001_Performance">
+        <test-method is-config="true" signature="Set_up()[pri:0, instance:OrangeHRM_Test_Run.OrangeHRM_001_Performance@2d1ef81a]" started-at="2023-02-21T15:33:00 IST" name="Set_up" finished-at="2023-02-21T15:33:14 IST" duration-ms="14223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_up -->
+        <test-method signature="PEM_001_Configure_Kpis()[pri:0, instance:OrangeHRM_Test_Run.OrangeHRM_001_Performance@2d1ef81a]" started-at="2023-02-21T15:33:14 IST" name="PEM_001_Configure_Kpis" finished-at="2023-02-21T15:33:39 IST" duration-ms="25038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully click on Login]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Performance]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Configure]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on KPIs]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Add]]>
+            </line>
+            <line>
+              <![CDATA[Text entered successfully passed ==> AJbxRyaKuQ]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on ]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Head of Support]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on ]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Save]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on ]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PEM_001_Configure_Kpis -->
+        <test-method signature="PEM_002_Configure_Trackers()[pri:0, instance:OrangeHRM_Test_Run.OrangeHRM_001_Performance@2d1ef81a]" started-at="2023-02-21T15:33:39 IST" name="PEM_002_Configure_Trackers" finished-at="2023-02-21T15:33:55 IST" duration-ms="15844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully click on Configure]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Trackers]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Add]]>
+            </line>
+            <line>
+              <![CDATA[Text entered successfully passed ==> QuVvDERmKQ]]>
+            </line>
+            <line>
+              <![CDATA[Text entered successfully passed ==> Suresh]]>
+            </line>
+            <line>
+              <![CDATA[Text entered successfully passed ==> Dipali]]>
+            </line>
+            <line>
+              <![CDATA[successfully click on Save]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PEM_002_Configure_Trackers -->
+      </class> <!-- OrangeHRM_Test_Run.OrangeHRM_001_Performance -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

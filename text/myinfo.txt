@@ -1,0 +1,132 @@
+username:                       xpath:                    //input[@placeholder='Username']
+password:                       xpath:                    //input[@placeholder='Password']
+login:                          xpath:                    //button[normalize-space()='Login']
+Dashboard:                      xpath:                    //a[@class='oxd-main-menu-item active']
+Myinfo:                        xpath:                      //span[normalize-space()='My Info']
+EmployeeFullName:              xpath:                      //input[@placeholder='${text}']
+Nickname:                      xpath:                      //label[text()='Nickname']/../following-sibling::div/input
+EmployeeId:                    xpath:                      //label[text()='Employee Id']/../following-sibling::div/input
+OtherId:                       xpath:                      //label[text()='Other Id']/../following-sibling::div/input
+driverlicense:                 xpath:                      //label[text()="Driver's License Number"]/../following-sibling::div/input
+licenseedadate:                xpath:					   //label[text()='License Expiry Date']/../following-sibling::div//input
+MarialStatus:                  xpath:                      //label[text()='Marital Status']/../following-sibling::div//div/i
+MaritalStatusselect:           xpath:                      //span[normalize-space()='${text}']
+FileAttachement:               xpath:                      //button[normalize-space()='Add']
+browderfile:                   xpath:                      //div[@class='oxd-file-button']
+FileSave:                      xpath:                      //button[normalize-space()='Cancel']/following-sibling::button
+
+----------------------------Contact-Detail----------------------------------
+ContactDetails:               xpath:                      //a[normalize-space()='Contact Details']
+Address:                      xpath:                      //label[text()='${text}']/../following-sibling::div/input
+country:                      xpath:                       //label[text()='Country']/../following-sibling::div//div/i
+countrydrop:                  xpath:                      //span[normalize-space()='${text}']
+Telephone:                    xpath:                      //label[text()='${text}']/../following-sibling::div/input
+Email:                        xpath:                      //label[text()='${text}']/../following-sibling::div/input 
+Save:                         xpath:                      //button[normalize-space()='Save']
+
+--------------------------------Emergency Contacts--------------------------------------
+EmergencyContacts:            xpath:                      //a[normalize-space()='Emergency Contacts']
+ECAdd:                        xpath:                      //h6[text()='Assigned Emergency Contacts']/../button
+SaveEmergencyContact:         xpath:                      //label[text()='${text}']/../following-sibling::div/input
+ECSave:                       xpath:                      //button[normalize-space()='Save']
+RecordsFound:                 xpath:                      //div[text()='Name']/../../following-sibling::div//div[@class='oxd-table-cell oxd-padding-cell']/div
+boxcheck:                     xpath:                      //div[text()='${text}']/../preceding-sibling::div//label/span
+Delete:                       xpath:                      //div[text()='${text}']/../following-sibling::div//button[1]
+YesDelete:                    xpath:                      //button[text()=' Yes, Delete ']
+----------------------------------Dependents----------------------------------------------------
+Dependents:                   xpath:                      //a[normalize-space()='Dependents']
+DPAdd:                        xpath:                      //h6[text()='Assigned Dependents']/../button
+AddDependent:                 xpath:                      //label[text()='${text}']/../following-sibling::div//input
+Relationship:                 xpath:                      //label[text()='Relationship']/../following-sibling::div//i
+Relationshipdrop:             xpath:                      //span[normalize-space()='${text}']
+DpSave:                       xpath:                      //button[normalize-space()='Save']
+
+------------------------------ Immigration -------------------------------------------
+Immigration:                  xpath:                      //a[normalize-space()='Immigration']
+IMAdd:                        xpath:                       //h6[text()='Assigned Immigration Records']/../button
+Passport:                     xpath:                      //label[text()='${text}']/../following-sibling::div//input
+PassportIssuedBy:             xpath:                      //label[text()='Issued By']/../following-sibling::div//i
+PassportIssuedByDrop:         xpath:                      //span[normalize-space()='${text}']
+passportComment:              xpath:                      //textarea[@placeholder='Type Comments here']
+IMSave:                       xpath:                      //button[normalize-space()='Save']
+IMRecordsFound:               xpath:                      //div[text()='Document']/../../following-sibling::div//div[@class='oxd-table-cell oxd-padding-cell']/div
+IMboxcheck:                   xpath:                      //div[text()='${text}']/../preceding-sibling::div//label/span
+IMDelete:                     xpath:                      //div[text()='${text}']/../following-sibling::div//button[1]
+IMYesDelete:                  xpath:                      //button[text()=' Yes, Delete ']
+visa:                         xpath:                      //label[normalize-space()='Visa']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
